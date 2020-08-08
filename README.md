@@ -2,7 +2,7 @@
 
 AlfabetosTelefonicos is to be a small utility program that when given the text of your name as input will output the Spanish name of each letter in it, and the telephone alphabet phrase corresponding to that letter. 
 
-For example, input of "Joe" should produce the outpu:
+For example, input of "Joe" should produce the output:
 
 "Joe: jota de José, o de Oviedo, e de España."
 
